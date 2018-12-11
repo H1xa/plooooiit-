@@ -270,7 +270,7 @@ function play(guild, song) {
 
 
 client.on('ready', () => {                           
-client.user.setGame(`Generals,Music 4play`,'https://www.twitch.tv/fofodiscord');                                                                                                                                                                                                                                                                                                                                                                                                                            
+client.user.setGame(`Generals,Music pplay`,'https://www.twitch.tv/fofodiscord');                                                                                                                                                                                                                                                                                                                                                                                                                            
 });
 
 
